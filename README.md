@@ -1,6 +1,6 @@
 - 👋 Hi, I’m konrad
-- 👀 I’m interested in data science & creative coding
-- 🌱 I’m currently learning JS and TS
+- 🌱 I’m Frontend Developer
+- 👀 I’m interested in data science 📈 & creative coding 🌈
 - 📫 How to reach me konrad.domalewski@gmail.com
 
 <!---
